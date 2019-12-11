@@ -1,4 +1,4 @@
-# Schoolkidss
+# Schoolkids
 
 
 Spring boot + Hibernate + React
